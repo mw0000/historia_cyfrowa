@@ -1,0 +1,50 @@
+Marcin Wilkowski
+
+Wprowadzenie do historii cyfrowej
+
+Instytut Kultury Miejskiej
+Gdańsk
+ 
+(c) Instytut Kultury Miejskiej
+Gdańsk 2013
+
+Wydanie pierwsze
+
+Fot. na okładce: CC BY-SA Doug Waldron
+
+Redakcja i korekta: Joanna Tyka (Filologos.pl) Przygotowanie publikacji elektronicznych: Inscripte
+
+ISBN (ePUB): 978-83-936720-2-8
+ISBN (MOBI): 978-83-936720-3-5
+ISBN (PDF):  978-83-936720-1-1
+
+Informacja o zasadach rozpowszechniania podręcznika
+
+Niniejsza publikacja udostępniana jest na licencji Creative Commons Uznanie autorstwa-Na tych samych warunkach 3.0 Unported (CC BY-SA). Oznacza to, że jej treść może być swobodnie kopiowana, rozpowszechniana i przetwarzana (także w celach komercyjnych) bez dodatkowych zezwoleń i umów, pod warunkiem udostępnienia informacji o autorze oraz zastosowania tej samej licencji w przypadku rozpowszechniania utworów zależnych. Więcej informacji na ten temat znaleźć można na stronie http://creativecommons.org/licenses/by-sa/3.0/ deed.pl, gdzie dostępne  jest  także  przystępne  podsumowanie niniejszych zasad.
+
+
+Treść skryptu jest otwarta, zachęcam więc do jej uzupełniania i rozbudowywania – Marcin Wilkowski (marcin@wilkowski.org)
+
+Dziękuję dr Emanuelowi Kulczyckiemu (UAM), dr Radosławowi Bombie (UMCS) i Marcinowi Werli (PCSS) za konsultacje przy redakcji  merytorycznej rozdziałów poświęconych podstawom współczesnej naukometrii,    wizualizacjom i bibliotekom cyfrowym.
+ 
+Spis treści
+
+1. Definiowanie cyfrowej historii  1
+2. Współczesny Internet z perspektywy historyka	7
+3. Digitalizacja i cechy formatu cyfrowego	10
+4. Wykorzystywanie repozytoriów cyfrowych	14
+5. Archiwa społeczne i oddolna digitalizacja	20
+6. Wyszukiwanie pełnotekstowe w archiwum cyfrowym i text mining	26
+7. Cyfrowe dziedzictwo	35
+8. Instytucje pamięci w kulturze cyfrowej	44
+9. Domena publiczna i jej blokowanie	50
+10. Historiografia poza drukiem	54
+11. Wizualizacje – historia poza tekstem	59
+12. Nowoczesne czasopisma naukowe online i open access	62
+13. Praca grupowa i nauka obywatelska	67
+14. Nowe internetowe formy komunikacji naukowej	73
+15. Otwartość w nauce i edukacji historycznej	78
+
+O autorze	
+
+ 
